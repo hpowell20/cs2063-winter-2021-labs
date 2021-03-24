@@ -1,0 +1,228 @@
+{
+  "host_cities": [
+    {
+      "year": "1896",
+      "number": "I",
+      "host_city": "Athens",
+      "dates": "April 6 - April 15",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1896_Summer_Olympics"
+    },
+    {
+      "year": "1900",
+      "number": "II",
+      "host_city": "Paris",
+      "dates": "May 14 - October 28",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1900_Summer_Olympics"
+    },
+    {
+      "year": "1904",
+      "number": "III",
+      "host_city": "St. Louis",
+      "dates": "July 1 - November 23",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1904_Summer_Olympics"
+    },
+    {
+      "year": "1908",
+      "number": "IV",
+      "host_city": "London",
+      "dates": "April 27 - October 31",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1908_Summer_Olympics"
+    },
+    {
+      "year": "1912",
+      "number": "V",
+      "host_city": "Stockholm",
+      "dates": "July 6 - July 22",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1912_Summer_Olympics"
+    },
+    {
+      "year": "1916",
+      "number": "VI",
+      "host_city": "Berlin",
+      "dates": "Cancelled due to World War I",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1916_Summer_Olympics"
+    },
+    {
+      "year": "1920",
+      "number": "VII",
+      "host_city": "Antwerp",
+      "dates": "August 14 - September 12",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1920_Summer_Olympics"
+    },
+    {
+      "year": "1924",
+      "number": "VIII",
+      "host_city": "Paris",
+      "dates": "May 4 - July 27",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1924_Summer_Olympics"
+    },
+    {
+      "year": "1928",
+      "number": "IX",
+      "host_city": "Amsterdam",
+      "dates": "July 28 - August 12",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1928_Summer_Olympics"
+    },
+    {
+      "year": "1932",
+      "number": "X",
+      "host_city": "Los Angeles",
+      "dates": "July 30 - August 14",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1932_Summer_Olympics"
+    },
+    {
+      "year": "1936",
+      "number": "XI",
+      "host_city": "Berlin",
+      "dates": "August 1 - August 16",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1936_Summer_Olympics"
+    },
+    {
+      "year": "1940",
+      "number": "XII",
+      "host_city": "Helsinki",
+      "dates": "Cancelled due to World War II",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1940_Summer_Olympics"
+    },
+    {
+      "year": "1944",
+      "number": "XIII",
+      "host_city": "London",
+      "dates": "Cancelled due to World War II",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1944_Summer_Olympics"
+    },
+    {
+      "year": "1948",
+      "number": "XIV",
+      "host_city": "London",
+      "dates": "July 29 - August 14",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1948_Summer_Olympics"
+    },
+    {
+      "year": "1952",
+      "number": "XV",
+      "host_city": "Helsinki",
+      "dates": "July 19 - August 3",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1952_Summer_Olympics"
+    },
+    {
+      "year": "1956",
+      "number": "XVI",
+      "host_city": "Melbourne",
+      "dates": "November 22 - December 8",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1956_Summer_Olympics"
+    },
+    {
+      "year": "1960",
+      "number": "XVII",
+      "host_city": "Rome",
+      "dates": "August 25 - September 11",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1960_Summer_Olympics"
+    },
+    {
+      "year": "1964",
+      "number": "XVIII",
+      "host_city": "Tokyo",
+      "dates": "October 10 - October 24",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1964_Summer_Olympics"
+    },
+    {
+      "year": "1968",
+      "number": "XIX",
+      "host_city": "Mexico City",
+      "dates": "October 12 - October 27",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1968_Summer_Olympics"
+    },
+    {
+      "year": "1972",
+      "number": "XX",
+      "host_city": "Munich",
+      "dates": "August 26 - September 11",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1972_Summer_Olympics"
+    },
+    {
+      "year": "1976",
+      "number": "XXI",
+      "host_city": "Montreal",
+      "dates": "July 17 - August 1",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1976_Summer_Olympics"
+    },
+    {
+      "year": "1980",
+      "number": "XXII",
+      "host_city": "Moscow",
+      "dates": "July 19 - August 3",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1980_Summer_Olympics"
+    },
+    {
+      "year": "1984",
+      "number": "XXIII",
+      "host_city": "Los Angeles",
+      "dates": "July 28 - August 12",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1984_Summer_Olympics"
+    },
+    {
+      "year": "1988",
+      "number": "XXIV",
+      "host_city": "Seoul",
+      "dates": "September 17 - October 2",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1988_Summer_Olympics"
+    },
+    {
+      "year": "1992",
+      "number": "XXV",
+      "host_city": "Barcelona",
+      "dates": "July 25 - August 9",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1992_Summer_Olympics"
+    },
+    {
+      "year": "1996",
+      "number": "XXVI",
+      "host_city": "Atlanta",
+      "dates": "July 19 - August 4",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/1996_Summer_Olympics"
+    },
+    {
+      "year": "2000",
+      "number": "XXVII",
+      "host_city": "Sydney",
+      "dates": "September 15 - October 1",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2000_Summer_Olympics"
+    },
+    {
+      "year": "2004",
+      "number": "XXVIII",
+      "host_city": "Athens",
+      "dates": "August 13 - August 29",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2004_Summer_Olympics"
+    },
+    {
+      "year": "2008",
+      "number": "XXIX",
+      "host_city": "Beijing",
+      "dates": "August 8 - August 24",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2008_Summer_Olympics"
+    },
+    {
+      "year": "2012",
+      "number": "XXX",
+      "host_city": "London",
+      "dates": "July 27 - August 12",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2012_Summer_Olympics"
+    },
+    {
+      "year": "2016",
+      "number": "XXXI",
+      "host_city": "Rio de Janeiro",
+      "dates": "August 5 - August 21",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2016_Summer_Olympics"
+    },
+    {
+      "year": "2021",
+      "number": "XXXII",
+      "host_city": "Tokyo",
+      "dates": "July 23 - August 8",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/2021_Summer_Olympics"
+    }
+  ]
+}
